@@ -1,1 +1,2992 @@
-
+{
+  "pachinko": [
+    {
+      "machine": "ぱちんこ 必殺仕事人Ⅵ",
+      "sentiment": "good",
+      "label": "円グラフの振り分け演出を世界観に落とし込んだ表現",
+      "url": "https://youtu.be/D_Txx8Ru_40?t=535",
+      "keywords": [
+        "円グラフ演出",
+        "振り分け演出",
+        "世界観"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "ぱちんこ 必殺仕事人Ⅵ",
+      "sentiment": "good",
+      "label": "背景変化（夕方→夜）を一連の流れで見せる演出",
+      "url": "https://youtu.be/04UVw5xpIM4?t=48",
+      "keywords": [
+        "背景変化",
+        "夕方",
+        "夜",
+        "演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "ぱちんこ 必殺仕事人Ⅵ",
+      "sentiment": "good",
+      "label": "赤保留変化のエフェクト構成",
+      "url": "https://youtu.be/2O5OoVVe2NA?t=1053",
+      "keywords": [
+        "保留変化",
+        "赤保留",
+        "エフェクト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "ぱちんこ 必殺仕事人Ⅵ",
+      "sentiment": "good",
+      "label": "シンプルな役物でもテンポで魅せる当り演出",
+      "url": "https://youtu.be/2O5OoVVe2NA?t=133",
+      "keywords": [
+        "役物演出",
+        "テンポ",
+        "当り演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+      "sentiment": "good",
+      "label": "モード特徴を背景カットに馴染ませた画面デザイン",
+      "url": "https://youtu.be/pZncgIe_dF0?t=901",
+      "keywords": [
+        "画面デザイン",
+        "モード特徴",
+        "背景演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+      "sentiment": "good",
+      "label": "当落カウントを帯・UIに頼らず映像に馴染ませる表現",
+      "url": "https://youtu.be/pZncgIe_dF0?t=922",
+      "keywords": [
+        "UIデザイン",
+        "カウント表示",
+        "演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "スマスロ リコリス・リコイル",
+      "sentiment": "good",
+      "label": "RUSH突入映像の洒落た編集センス",
+      "url": "https://youtu.be/6QDmJgaU3Xc?t=65",
+      "keywords": [
+        "RUSH突入",
+        "編集",
+        "演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "eフィーバー デッドマウント・デスプレイ 魂神9000",
+      "sentiment": "good",
+      "label": "モノクロ×手書き風の激熱デバイス演出",
+      "url": "https://youtu.be/ZS98b54bWdk?t=1176",
+      "keywords": [
+        "デバイス演出",
+        "モノクロ表現",
+        "手書き風"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー デッドマウント・デスプレイ 魂神9000",
+      "sentiment": "good",
+      "label": "コインを題材にした1/2振り分け演出",
+      "url": "https://youtu.be/ZS98b54bWdk?t=1256",
+      "keywords": [
+        "振り分け演出",
+        "コイン演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "L戦国乙女5 業火を穿つ宿焔の双刃",
+      "sentiment": "good",
+      "label": "明暗のハッキリした演出全体の空気感",
+      "url": "https://youtu.be/8VLig10U0B0?t=1073",
+      "keywords": [
+        "空気感",
+        "明暗演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "L戦国乙女5 業火を穿つ宿焔の双刃",
+      "sentiment": "good",
+      "label": "安っぽくならないカットイン演出",
+      "url": "https://youtu.be/8VLig10U0B0?t=1566",
+      "keywords": [
+        "カットイン演出",
+        "エフェクト"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "L戦国乙女5 業火を穿つ宿焔の双刃",
+      "sentiment": "good",
+      "label": "安っぽくならない上乗せG数表示",
+      "url": "https://youtu.be/8VLig10U0B0?t=1573",
+      "keywords": [
+        "上乗せ表示",
+        "エフェクト"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "L戦国乙女5 業火を穿つ宿焔の双刃",
+      "sentiment": "good",
+      "label": "アイコンを斜め配置したオシャレなレイアウト",
+      "url": "https://youtu.be/8VLig10U0B0?t=2437",
+      "keywords": [
+        "アイコン配置",
+        "レイアウト"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "L戦国乙女5 業火を穿つ宿焔の双刃",
+      "sentiment": "good",
+      "label": "背景名のふりがなにエフェクトを付けた一工夫",
+      "url": "https://youtu.be/8VLig10U0B0?t=2028",
+      "keywords": [
+        "背景名表示",
+        "ふりがな演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "e86-エイティシックス-",
+      "sentiment": "good",
+      "label": "役物を目立たせる液晶暗転演出",
+      "url": "https://youtu.be/Kt3spwUCB-g?t=106",
+      "keywords": [
+        "役物演出",
+        "液晶暗転"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e86-エイティシックス-",
+      "sentiment": "good",
+      "label": "役物と液晶がうまく連動した当り演出",
+      "url": "https://youtu.be/Kt3spwUCB-g?t=220",
+      "keywords": [
+        "役物液晶連動",
+        "当り演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e86-エイティシックス-",
+      "sentiment": "good",
+      "label": "手抜き感のないおしゃれな3D文字演出",
+      "url": "https://youtu.be/Kt3spwUCB-g?t=245",
+      "keywords": [
+        "3D文字演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e86-エイティシックス-",
+      "sentiment": "good",
+      "label": "楽曲・セリフ・映像を一体化させた激アツ演出の緩急",
+      "url": "https://youtu.be/Eb-7jK3RTu0?t=950",
+      "keywords": [
+        "緩急演出",
+        "音楽演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e86-エイティシックス-",
+      "sentiment": "good",
+      "label": "本編アニメを交えた版権要素のゲーム性説明",
+      "url": "https://youtu.be/Eb-7jK3RTu0?t=1136",
+      "keywords": [
+        "版権演出",
+        "ゲーム性説明"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e86-エイティシックス-",
+      "sentiment": "good",
+      "label": "右打ち中の分かりやすいレイアウト",
+      "url": "https://youtu.be/Kt3spwUCB-g?t=572",
+      "keywords": [
+        "右打ちレイアウト",
+        "UIデザイン"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e86-エイティシックス-",
+      "sentiment": "good",
+      "label": "緩急とおしゃれさが際立つ一撃フラグ演出",
+      "url": "https://youtu.be/Kt3spwUCB-g?t=2375",
+      "keywords": [
+        "一撃フラグ演出",
+        "緩急"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e86-エイティシックス-",
+      "sentiment": "good",
+      "label": "中央から止まる斬新な通常変動",
+      "url": "https://youtu.be/Eb-7jK3RTu0?t=348",
+      "keywords": [
+        "通常変動",
+        "斬新演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ウルトラマンメビウス デカヘソ319",
+      "sentiment": "good",
+      "label": "背景でのカウントダウン表現",
+      "url": "https://youtu.be/5Yz4x9zElqw?t=430",
+      "keywords": [
+        "カウントダウン演出",
+        "背景演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ウルトラマンメビウス デカヘソ319",
+      "sentiment": "good",
+      "label": "光が広がるにつれ絵柄が見えてくる演出",
+      "url": "https://youtu.be/5Yz4x9zElqw?t=485",
+      "keywords": [
+        "光表現",
+        "演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ウルトラマンメビウス デカヘソ319",
+      "sentiment": "good",
+      "label": "ボーナス獲得からのゴージャスなタイトル演出",
+      "url": "https://youtu.be/5Yz4x9zElqw?t=906",
+      "keywords": [
+        "タイトル演出",
+        "獲得演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ウルトラマンメビウス デカヘソ319",
+      "sentiment": "good",
+      "label": "版権要素をうまく使ったタイトル演出",
+      "url": "https://youtu.be/5Yz4x9zElqw?t=315",
+      "keywords": [
+        "版権演出",
+        "タイトル演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 北斗の拳11 暴凶星",
+      "sentiment": "good",
+      "label": "文字が徐々に実体化するゾーン突入煽り",
+      "url": "https://youtu.be/VOA1ptRgfLw?t=137",
+      "keywords": [
+        "ゾーン突入煽り",
+        "演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 北斗の拳11 暴凶星",
+      "sentiment": "good",
+      "label": "役物落下煽り→液晶で補完する構成",
+      "url": "https://youtu.be/VOA1ptRgfLw?t=223",
+      "keywords": [
+        "役物演出",
+        "液晶補完"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 北斗の拳11 暴凶星",
+      "sentiment": "good",
+      "label": "秘孔を突いて図柄が壊れる版権表現の図柄昇格演出",
+      "url": "https://youtu.be/VOA1ptRgfLw?t=559",
+      "keywords": [
+        "図柄昇格演出",
+        "版権演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 北斗の拳11 暴凶星",
+      "sentiment": "good",
+      "label": "ユーザーが「勝つ側」を選択する変わり種演出",
+      "url": "https://youtu.be/1-ie2Vgrh1Q",
+      "keywords": [
+        "選択演出",
+        "分岐演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eノーゲーム・ノーライフ 199Ver.",
+      "sentiment": "good",
+      "label": "十字ボタンでコマンド入力させる演出",
+      "url": "https://youtu.be/TGJliLAc6H8?t=214",
+      "keywords": [
+        "コマンド入力演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eノーゲーム・ノーライフ 199Ver.",
+      "sentiment": "good",
+      "label": "アニメ内ゲーム要素を落とし込んだ具現化しりとり演出",
+      "url": "https://youtu.be/ieHLTdyDyA0?t=38",
+      "keywords": [
+        "しりとり演出",
+        "ゲーム要素演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 新世紀エヴァンゲリオン 〜はじまりの記憶〜（エヴァ17）",
+      "sentiment": "good",
+      "label": "段階構成が面白いST中テンパイ煽り",
+      "url": "https://youtu.be/_eCYR5-l5B4?t=445",
+      "keywords": [
+        "テンパイ煽り演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 新世紀エヴァンゲリオン 〜はじまりの記憶〜（エヴァ17）",
+      "sentiment": "good",
+      "label": "分岐を最後まで引っ張る当落デバイス煽り",
+      "url": "https://youtu.be/_eCYR5-l5B4?t=504",
+      "keywords": [
+        "デバイス演出",
+        "当落煽り"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 新世紀エヴァンゲリオン 〜はじまりの記憶〜（エヴァ17）",
+      "sentiment": "good",
+      "label": "でかい文字＋小さめキャラのおしゃれなレイアウト",
+      "url": "https://youtu.be/_eCYR5-l5B4?t=565",
+      "keywords": [
+        "文字レイアウト",
+        "おしゃれ演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 新世紀エヴァンゲリオン 〜はじまりの記憶〜（エヴァ17）",
+      "sentiment": "good",
+      "label": "映像に文字を組み込む演出",
+      "url": "https://youtu.be/_eCYR5-l5B4?t=836",
+      "keywords": [
+        "文字組み込み演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 新世紀エヴァンゲリオン 〜はじまりの記憶〜（エヴァ17）",
+      "sentiment": "good",
+      "label": "ST消化回数を演出文字に組み込んだメタ演出",
+      "url": "https://youtu.be/_eCYR5-l5B4?t=830",
+      "keywords": [
+        "メタ演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 無職転生 ～異世界行ったら本気だす～",
+      "sentiment": "bad",
+      "label": "剣術稽古風演出の結果部分以降で、キャラ・EF・文字・OUTなど全体的に安っぽさを感じる（フラットデザインの影響という意見も）",
+      "url": "https://youtu.be/HHWbzjQEMSA?t=139",
+      "keywords": [
+        "安っぽさ",
+        "演出クオリティ"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 無職転生 ～異世界行ったら本気だす～",
+      "sentiment": "bad",
+      "label": "当り演出の気持ちよさが弱い（音の緩急・イルミで映像が見えにくい点・キメ台詞の重複・役物と映像キャラの一体化がチープに感じる点が要因という指摘）",
+      "url": "https://youtu.be/v4uD4qbMraQ?t=169",
+      "keywords": [
+        "当り演出",
+        "気持ちよさ不足"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 無職転生 ～異世界行ったら本気だす～",
+      "sentiment": "bad",
+      "label": "ニューギンのFF演出が見づらい。6000を派手に見せる意図は理解できるが、背景・文字とも虹基調で情報量が渋滞している",
+      "url": "https://youtu.be/HHWbzjQEMSA?t=629",
+      "keywords": [
+        "情報過多",
+        "レイアウト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 無職転生 ～異世界行ったら本気だす～",
+      "sentiment": "bad",
+      "label": "ニューギンのFF演出が見づらい（別カット）。虹基調の背景・文字で情報量が渋滞している",
+      "url": "https://youtu.be/HHWbzjQEMSA?t=654",
+      "keywords": [
+        "情報過多",
+        "レイアウト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 無職転生 ～異世界行ったら本気だす～",
+      "sentiment": "bad",
+      "label": "ニューギンのFF演出が見づらい（別カット）。虹基調の背景・文字で情報量が渋滞している",
+      "url": "https://youtu.be/HHWbzjQEMSA?t=777",
+      "keywords": [
+        "情報過多",
+        "レイアウト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 無職転生 ～異世界行ったら本気だす～",
+      "sentiment": "bad",
+      "label": "ニューギンのFF演出が見づらい（別カット）。数字表面のギラギラ加工も過剰に感じる",
+      "url": "https://youtu.be/HHWbzjQEMSA?t=873",
+      "keywords": [
+        "情報過多",
+        "レイアウト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 無職転生 ～異世界行ったら本気だす～",
+      "sentiment": "bad",
+      "label": "ニューギンのFF演出が見づらい（別カット）。数字表面のギラギラ加工も過剰に感じる",
+      "url": "https://youtu.be/HHWbzjQEMSA?t=970",
+      "keywords": [
+        "情報過多",
+        "レイアウト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 学園黙示録ハイスクール・オブ・ザ・デッド3",
+      "sentiment": "bad",
+      "label": "信頼度60%超なのに最強リーチに感じない",
+      "url": "https://youtu.be/OuyjrBHmXeE?t=393",
+      "keywords": [
+        "リーチ演出",
+        "迫力不足"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e 学園黙示録ハイスクール・オブ・ザ・デッド3",
+      "sentiment": "bad",
+      "label": "サプライズRUSHなのに脳への刺激が弱い",
+      "url": "https://youtu.be/OuyjrBHmXeE?t=1245",
+      "keywords": [
+        "RUSH演出",
+        "刺激不足"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eワンパンマン2～正義執行",
+      "sentiment": "bad",
+      "label": "LT突入演出のセリフがくどい",
+      "url": "https://youtu.be/dd_NuVvb3GY?t=373",
+      "keywords": [
+        "LT突入演出",
+        "くどい演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eワンパンマン2～正義執行",
+      "sentiment": "bad",
+      "label": "3D化した瞬間に微妙になる不屈CHANCE",
+      "url": "https://youtu.be/dd_NuVvb3GY?t=1501",
+      "keywords": [
+        "3D演出",
+        "違和感"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eワンパンマン2～正義執行",
+      "sentiment": "bad",
+      "label": "キャラ周りがエフェクトのみで加工不足な大当り演出",
+      "url": "https://youtu.be/dd_NuVvb3GY?t=1608",
+      "keywords": [
+        "エフェクト演出",
+        "加工不足"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーもののがたり",
+      "sentiment": "good",
+      "label": "和風×スタイリッシュにまとまった図柄デザイン",
+      "url": "https://youtu.be/0G0oovRTN0g?t=73",
+      "keywords": [
+        "図柄デザイン",
+        "和風演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーもののがたり",
+      "sentiment": "good",
+      "label": "アニメ素材+3D+Live2Dを混合した発展演出",
+      "url": "https://youtu.be/0G0oovRTN0g?t=83",
+      "keywords": [
+        "発展演出",
+        "Live2D",
+        "版権演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーもののがたり",
+      "sentiment": "good",
+      "label": "編集がかっこいいリーチ演出（テキスト・コンポジット）",
+      "url": "https://youtu.be/0G0oovRTN0g?t=97",
+      "keywords": [
+        "リーチ演出",
+        "編集"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーもののがたり",
+      "sentiment": "good",
+      "label": "編集がかっこいいリーチ演出（別カット）",
+      "url": "https://youtu.be/0G0oovRTN0g?t=824",
+      "keywords": [
+        "リーチ演出",
+        "編集"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーもののがたり",
+      "sentiment": "good",
+      "label": "編集がかっこいいリーチ演出（別カット2）",
+      "url": "https://youtu.be/0G0oovRTN0g?t=946",
+      "keywords": [
+        "リーチ演出",
+        "編集"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーもののがたり",
+      "sentiment": "good",
+      "label": "右打ち中のモード突入・出玉獲得のインパクト",
+      "url": "https://youtu.be/0G0oovRTN0g?t=273",
+      "keywords": [
+        "右打ち中演出",
+        "インパクト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eルパン三世VSキャッツ・アイ",
+      "sentiment": "good",
+      "label": "図柄送りの工夫が光る図柄演出",
+      "url": "https://youtu.be/iKlNcypwUkg?t=1064",
+      "keywords": [
+        "図柄演出",
+        "図柄送り"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eルパン三世VSキャッツ・アイ",
+      "sentiment": "good",
+      "label": "リーチタイトルと絡めた独自性のある激熱予告（プチュン）",
+      "url": "https://youtu.be/iKlNcypwUkg?t=1111",
+      "keywords": [
+        "激熱予告",
+        "プチュン演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eルパン三世VSキャッツ・アイ",
+      "sentiment": "good",
+      "label": "立体空間で弾丸が飛び交う斬新なシェイクビジョン",
+      "url": "https://youtu.be/iKlNcypwUkg?t=2256",
+      "keywords": [
+        "シェイクビジョン",
+        "立体表現"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eルパン三世VSキャッツ・アイ",
+      "sentiment": "good",
+      "label": "洒落た画面と工夫ある右打ち中の映像構成",
+      "url": "https://youtu.be/iKlNcypwUkg?t=1287",
+      "keywords": [
+        "右打ち中演出",
+        "映像構成"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eルパン三世VSキャッツ・アイ",
+      "sentiment": "good",
+      "label": "疑似2→疑似3へテンポよく見せる疑似連演出",
+      "url": "https://youtu.be/iKlNcypwUkg?t=2203",
+      "keywords": [
+        "疑似連演出",
+        "テンポ"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eルパン三世VSキャッツ・アイ",
+      "sentiment": "good",
+      "label": "立体感のあるレイヤー構成のギミックEF",
+      "url": "https://youtu.be/iKlNcypwUkg?t=1783",
+      "keywords": [
+        "ギミックEF",
+        "立体感"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "スマスロ新鬼武者３",
+      "sentiment": "good",
+      "label": "白黒フェードになるカッコいい演出",
+      "url": "https://youtu.be/1MguHcZ6gLI?t=585",
+      "keywords": [
+        "白黒フェード演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スマスロ新鬼武者３",
+      "sentiment": "good",
+      "label": "白黒フェードになるカッコいい演出（別カット）",
+      "url": "https://youtu.be/ylMZy4cyT80?t=1703",
+      "keywords": [
+        "白黒フェード演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "e 聖戦士ダンバイン 3 ZEROSONIC",
+      "sentiment": "good",
+      "label": "白黒フェードになるカッコいい演出",
+      "url": "https://youtu.be/YqXzcK2hNdc?t=1155",
+      "keywords": [
+        "白黒フェード演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e ベルセルク無双 第2章",
+      "sentiment": "bad",
+      "label": "白黒フェード演出だが、出来としては微妙な例",
+      "url": "https://www.youtube.com/watch?v=teiAXsnS1Nw&t=615s",
+      "keywords": [
+        "白黒フェード演出",
+        "要改善"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P戦国乙女7 終焉の関ヶ原",
+      "sentiment": "good",
+      "label": "白黒フェードになるカッコいい演出",
+      "url": "https://www.youtube.com/watch?v=4yFRHFNK5WQ&t=652s",
+      "keywords": [
+        "白黒フェード演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーブルーロック",
+      "sentiment": "good",
+      "label": "白黒フェードになるカッコいい演出",
+      "url": "https://youtu.be/YgDZ9NSwwMQ?t=997",
+      "keywords": [
+        "白黒フェード演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e炎炎ノ消防隊2",
+      "sentiment": "good",
+      "label": "白黒フェードになるカッコいい演出",
+      "url": "https://www.youtube.com/watch?v=SmWjKEXS8zI&t=778s",
+      "keywords": [
+        "白黒フェード演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e東京リベンジャーズ",
+      "sentiment": "good",
+      "label": "Live2Dで漫画画像を大きく動かす労力のかかった演出",
+      "url": "https://youtu.be/IDoi7qi4KW8?t=115",
+      "keywords": [
+        "Live2D演出",
+        "漫画画像"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e東京リベンジャーズ",
+      "sentiment": "good",
+      "label": "フラットデザイン×モーショングラフィックスで緩急を出した演出構成",
+      "url": "https://youtu.be/IDoi7qi4KW8?t=131",
+      "keywords": [
+        "フラットデザイン",
+        "モーショングラフィック",
+        "緩急"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e東京リベンジャーズ",
+      "sentiment": "good",
+      "label": "文字の畳みかけからキャラ+金文字で魅せる激熱予告",
+      "url": "https://youtu.be/IDoi7qi4KW8?t=208",
+      "keywords": [
+        "激熱予告",
+        "緩急"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e東京リベンジャーズ",
+      "sentiment": "good",
+      "label": "汚さのない綺麗な虹エフェクト",
+      "url": "https://youtu.be/IDoi7qi4KW8?t=268",
+      "keywords": [
+        "虹エフェクト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e東京リベンジャーズ",
+      "sentiment": "good",
+      "label": "図柄にケリが入る版権らしい7昇格演出",
+      "url": "https://youtu.be/IDoi7qi4KW8?t=474",
+      "keywords": [
+        "図柄昇格演出",
+        "版権演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e牙狼12黄金騎士極限",
+      "sentiment": "good",
+      "label": "LT突入をかけた出玉決定演出（1500or7500の分かりやすさ）",
+      "url": "https://youtu.be/TJ3hZ4mm3QI?t=355",
+      "keywords": [
+        "出玉決定演出",
+        "LT突入演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "L ダーリン・イン・ザ・フランキス",
+      "sentiment": "good",
+      "label": "フラットデザイン・モーショングラフィックスで統一された機種全体の演出",
+      "url": "https://youtu.be/OnnpArnm9nI",
+      "keywords": [
+        "フラットデザイン",
+        "モーショングラフィック"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "eマギアレコード 魔法少女まどか☆マギカ外伝",
+      "sentiment": "good",
+      "label": "熱さがしっかり伝わるコネクトカットイン",
+      "url": "https://youtu.be/DBYfEikweKQ?t=208",
+      "keywords": [
+        "カットイン演出",
+        "激熱演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eマギアレコード 魔法少女まどか☆マギカ外伝",
+      "sentiment": "good",
+      "label": "手の込んだ作りのVコネクトボーナス",
+      "url": "https://youtu.be/DBYfEikweKQ?t=830",
+      "keywords": [
+        "ボーナス演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eマギアレコード 魔法少女まどか☆マギカ外伝",
+      "sentiment": "good",
+      "label": "4桁になると動きが面白い出玉煽りカウントアップ",
+      "url": "https://youtu.be/DBYfEikweKQ?t=1513",
+      "keywords": [
+        "カウントアップ演出",
+        "出玉煽り"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eマギアレコード 魔法少女まどか☆マギカ外伝",
+      "sentiment": "good",
+      "label": "反応した役物で出玉が決まるまどか☆マギカIMPACT",
+      "url": "https://youtu.be/DBYfEikweKQ?t=2171",
+      "keywords": [
+        "特殊モード演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eマギアレコード 魔法少女まどか☆マギカ外伝",
+      "sentiment": "good",
+      "label": "イルミ調で見栄えの良い終結チャレンジ",
+      "url": "https://youtu.be/DBYfEikweKQ?t=1210",
+      "keywords": [
+        "イルミ演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eマギアレコード 魔法少女まどか☆マギカ外伝",
+      "sentiment": "good",
+      "label": "版権らしい形状のプチュン演出",
+      "url": "https://youtu.be/DBYfEikweKQ?t=1116",
+      "keywords": [
+        "プチュン演出",
+        "版権演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e炎炎ノ消防隊2",
+      "sentiment": "good",
+      "label": "盛り上げながらギミックにつなぐ役物発展の演出",
+      "url": "https://youtu.be/BwUgPVyjE_U?t=899",
+      "keywords": [
+        "役物演出",
+        "発展演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e炎炎ノ消防隊2",
+      "sentiment": "good",
+      "label": "シネスコ帯のデザイン・作り込みの丁寧さ",
+      "url": "https://youtu.be/BwUgPVyjE_U?t=1470",
+      "keywords": [
+        "シネスコ帯",
+        "デザイン"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e炎炎ノ消防隊2",
+      "sentiment": "good",
+      "label": "仲間と共に盛り上げる激アツ当落デバイス演出",
+      "url": "https://youtu.be/hQ0CAtmPtMI?t=200",
+      "keywords": [
+        "デバイス演出",
+        "当落煽り"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e炎炎ノ消防隊2",
+      "sentiment": "good",
+      "label": "前作比較で分かる立体的な最強リーチ導入",
+      "url": "https://youtu.be/BwUgPVyjE_U?t=922",
+      "keywords": [
+        "リーチ導入",
+        "立体表現"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e炎炎ノ消防隊2",
+      "sentiment": "good",
+      "label": "見た事のない新しい信頼度UP表現（バトルモード）",
+      "url": "https://youtu.be/hQ0CAtmPtMI?t=1501",
+      "keywords": [
+        "信頼度表示",
+        "バトルモード"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e炎炎ノ消防隊2",
+      "sentiment": "good",
+      "label": "表裏でルックが変わるゲーム性のアイデア",
+      "url": "https://youtu.be/BwUgPVyjE_U?t=1976",
+      "keywords": [
+        "ゲーム性演出",
+        "表裏演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e炎炎ノ消防隊2",
+      "sentiment": "good",
+      "label": "一手間感のあるプチュン演出",
+      "url": "https://youtu.be/hQ0CAtmPtMI?t=1904",
+      "keywords": [
+        "プチュン演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー彼女、お借りします",
+      "sentiment": "good",
+      "label": "図柄内キャラが振り向く当落煽り演出",
+      "url": "https://youtu.be/ulWCeRmRM8U?t=1381",
+      "keywords": [
+        "当落煽り",
+        "図柄演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー彼女、お借りします",
+      "sentiment": "good",
+      "label": "初見の輪郭線プチュン演出",
+      "url": "https://youtu.be/ulWCeRmRM8U?t=1736",
+      "keywords": [
+        "プチュン演出",
+        "輪郭線"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー彼女、お借りします",
+      "sentiment": "good",
+      "label": "見た目と煽りの良い出玉振り分け演出",
+      "url": "https://youtu.be/sCbVZewbaYg?t=1897",
+      "keywords": [
+        "振り分け演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー彼女、お借りします",
+      "sentiment": "good",
+      "label": "映像が綺麗なLT突入演出",
+      "url": "https://youtu.be/ulWCeRmRM8U?t=492",
+      "keywords": [
+        "LT突入演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー彼女、お借りします",
+      "sentiment": "good",
+      "label": "出玉アピールと目線誘導が上手い大出玉確定プレミア演出",
+      "url": "https://youtu.be/ulWCeRmRM8U?t=676",
+      "keywords": [
+        "プレミア演出",
+        "出玉アピール"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー彼女、お借りします",
+      "sentiment": "good",
+      "label": "完成度の高い役物",
+      "url": "https://youtu.be/ulWCeRmRM8U?t=1083",
+      "keywords": [
+        "役物"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "L 東京喰種",
+      "sentiment": "good",
+      "label": "フリーズ→グリッジノイズで「血」を落とし込んだ成功時演出",
+      "url": "https://youtu.be/lurhppTcCyA?t=340",
+      "keywords": [
+        "フリーズ演出",
+        "グリッジ表現"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "L 東京喰種",
+      "sentiment": "good",
+      "label": "版権要素「咬む」を活かした特化ゾーンの報酬選択演出",
+      "url": "https://youtu.be/lurhppTcCyA?t=563",
+      "keywords": [
+        "特化ゾーン",
+        "版権演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "L 東京喰種",
+      "sentiment": "good",
+      "label": "心電図風の暗転が特徴的な上位特化ゾーン",
+      "url": "https://youtu.be/lurhppTcCyA?t=702",
+      "keywords": [
+        "特化ゾーン",
+        "暗転演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "L 東京喰種",
+      "sentiment": "good",
+      "label": "カメラワークと音・セリフが揃った上位CZ演出",
+      "url": "https://youtu.be/lurhppTcCyA?t=1362",
+      "keywords": [
+        "CZ演出",
+        "音ハメ"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "e東京喰種",
+      "sentiment": "good",
+      "label": "モーショングラフィック×被写界深度×色収差の疑似連演出",
+      "url": "https://youtu.be/l5K9qRX3sQ8?t=81",
+      "keywords": [
+        "疑似連演出",
+        "モーショングラフィック"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e東京喰種",
+      "sentiment": "good",
+      "label": "役物落下→キャラ登場→モーショングラフィックの一連の強発展演出",
+      "url": "https://youtu.be/l5K9qRX3sQ8?t=207",
+      "keywords": [
+        "発展演出",
+        "モーショングラフィック"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e東京喰種",
+      "sentiment": "good",
+      "label": "奥行きある空間構成のラッキートリガー突入演出",
+      "url": "https://youtu.be/l5K9qRX3sQ8?t=435",
+      "keywords": [
+        "ラッキートリガー演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e東京喰種",
+      "sentiment": "good",
+      "label": "3D構成から気持ちよく突入する右打ち中リーチ",
+      "url": "https://youtu.be/l5K9qRX3sQ8?t=502",
+      "keywords": [
+        "右打ち中演出",
+        "リーチ演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e東京喰種",
+      "sentiment": "good",
+      "label": "緩急のある右打ち中の当り演出一連",
+      "url": "https://youtu.be/l5K9qRX3sQ8?t=537",
+      "keywords": [
+        "当り演出",
+        "緩急"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eシン・ウルトラマン",
+      "sentiment": "good",
+      "label": "フラッシュの出方が美しい発展時の疑似イルミ演出",
+      "url": "https://youtu.be/jH6XnkGAkiU?t=111",
+      "keywords": [
+        "疑似イルミ演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eシン・ウルトラマン",
+      "sentiment": "good",
+      "label": "テンポの良さを感じる「狙え」指示テキストの音ハメ",
+      "url": "https://youtu.be/jH6XnkGAkiU?t=201",
+      "keywords": [
+        "音ハメ",
+        "テキスト演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eシン・ウルトラマン",
+      "sentiment": "good",
+      "label": "見栄えの良さで構成されたバトル移行時のテキスト演出",
+      "url": "https://youtu.be/jH6XnkGAkiU?t=212",
+      "keywords": [
+        "テキスト演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eシン・ウルトラマン",
+      "sentiment": "good",
+      "label": "完成度の高い右打ち中バトルのタイトル演出",
+      "url": "https://youtu.be/jH6XnkGAkiU?t=591",
+      "keywords": [
+        "タイトル演出",
+        "右打ち中演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eシン・ウルトラマン",
+      "sentiment": "good",
+      "label": "気持ちよさを生むエフェクトの音ハメ",
+      "url": "https://youtu.be/jH6XnkGAkiU?t=344",
+      "keywords": [
+        "音ハメ",
+        "エフェクト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eシン・ウルトラマン",
+      "sentiment": "good",
+      "label": "版権らしさを落とし込んだ台詞演出",
+      "url": "https://youtu.be/jH6XnkGAkiU?t=645",
+      "keywords": [
+        "版権演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P戦国乙女7 終焉の関ヶ原",
+      "sentiment": "good",
+      "label": "当落デバイス出現までの盛り上げ方が珍しい演出",
+      "url": "https://youtu.be/CeCEkj3rQsE?t=403",
+      "keywords": [
+        "デバイス演出",
+        "当落煽り"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eルパン三世 ONE COLLECTION 超ブチヌキLT ver.",
+      "sentiment": "good",
+      "label": "全画面に物が刺さりZ軸に進む斬新な演出",
+      "url": "https://youtu.be/Ny5oCXxQ3ZE?t=330",
+      "keywords": [
+        "ブチ抜き演出",
+        "斬新演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eルパン三世 ONE COLLECTION 超ブチヌキLT ver.",
+      "sentiment": "good",
+      "label": "奥行きを感じるシャッター演出",
+      "url": "https://youtu.be/Ny5oCXxQ3ZE?t=552",
+      "keywords": [
+        "ブチ抜き演出",
+        "奥行き表現"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eルパン三世 ONE COLLECTION 超ブチヌキLT ver.",
+      "sentiment": "good",
+      "label": "思いつかない見せ方の入賞時フラッシュ",
+      "url": "https://youtu.be/CeCEkj3rQsE?t=662",
+      "keywords": [
+        "入賞演出",
+        "フラッシュ"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eルパン三世 ONE COLLECTION 超ブチヌキLT ver.",
+      "sentiment": "good",
+      "label": "アニメ垂れ流しではない工夫された構成",
+      "url": "https://youtu.be/-7w_0pG8FT4?t=121",
+      "keywords": [
+        "構成演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "Pデビルマン THE FINAL",
+      "sentiment": "good",
+      "label": "Live2Dで振り切ったショートST演出",
+      "url": "https://youtu.be/_ItszlDymKY?t=957",
+      "keywords": [
+        "Live2D演出",
+        "ショートST"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー戦姫絶唱シンフォギア4 キャロルver.",
+      "sentiment": "good",
+      "label": "奥行き感のある白黒破片の疑似連演出",
+      "url": "https://youtu.be/-dFo41TNS1U?t=53",
+      "keywords": [
+        "疑似連演出",
+        "白黒表現"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー戦姫絶唱シンフォギア4 キャロルver.",
+      "sentiment": "good",
+      "label": "60FPS歌口パク×裸眼3Dの絶唱演出",
+      "url": "https://youtu.be/-dFo41TNS1U?t=95",
+      "keywords": [
+        "絶唱演出",
+        "裸眼3D"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー戦姫絶唱シンフォギア4 キャロルver.",
+      "sentiment": "good",
+      "label": "裸眼3Dでクオリティアップしたつかみ取れ演出",
+      "url": "https://youtu.be/dkqRrfXJebw?t=535",
+      "keywords": [
+        "裸眼3D",
+        "定番演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー戦姫絶唱シンフォギア4 キャロルver.",
+      "sentiment": "good",
+      "label": "Vが花開く新しいV入賞3000発演出",
+      "url": "https://youtu.be/dkqRrfXJebw?t=678",
+      "keywords": [
+        "V入賞演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー戦姫絶唱シンフォギア4 キャロルver.",
+      "sentiment": "good",
+      "label": "裸眼3Dで立体的な3000発ラウンド中演出",
+      "url": "https://youtu.be/dkqRrfXJebw?t=719",
+      "keywords": [
+        "裸眼3D",
+        "ラウンド演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー戦姫絶唱シンフォギア4 キャロルver.",
+      "sentiment": "good",
+      "label": "ガラス割れのクオリティが高いV入賞4500or6000発演出",
+      "url": "https://youtu.be/dkqRrfXJebw?t=820",
+      "keywords": [
+        "V入賞演出",
+        "エフェクト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー戦姫絶唱シンフォギア4 キャロルver.",
+      "sentiment": "good",
+      "label": "キャラ背景ごとに違う表現で飽きさせない通常背景演出",
+      "url": "https://youtu.be/WHe0esqli-I?t=583",
+      "keywords": [
+        "背景演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー戦姫絶唱シンフォギア4 キャロルver.",
+      "sentiment": "good",
+      "label": "クオリティの高いキャラリーチ（装者リーチ）",
+      "url": "https://youtu.be/-dFo41TNS1U?t=278",
+      "keywords": [
+        "キャラリーチ"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ゴジラ対エヴァンゲリオン セカンドインパクト G",
+      "sentiment": "good",
+      "label": "レイアウトの雰囲気で魅せる映画的な全体演出",
+      "url": "https://youtu.be/KZc0zWpd7EQ?t=77",
+      "keywords": [
+        "映画的演出",
+        "レイアウト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ゴジラ対エヴァンゲリオン セカンドインパクト G",
+      "sentiment": "good",
+      "label": "1人称視点で展開される3Dレイアウト演出",
+      "url": "https://youtu.be/KZc0zWpd7EQ?t=116",
+      "keywords": [
+        "3Dレイアウト",
+        "1人称視点"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ゴジラ対エヴァンゲリオン セカンドインパクト G",
+      "sentiment": "good",
+      "label": "エヴァ15ベースにゴジラを混ぜた槍擬似演出のアレンジ",
+      "url": "https://youtu.be/KZc0zWpd7EQ?t=267",
+      "keywords": [
+        "版権演出",
+        "アレンジ"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ゴジラ対エヴァンゲリオン セカンドインパクト G",
+      "sentiment": "good",
+      "label": "3Dキャラでも違和感のないビオランテアスカリーチ",
+      "url": "https://youtu.be/BWWvZr7VgFs?t=934",
+      "keywords": [
+        "リーチ演出",
+        "3Dキャラ"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P転生したらスライムだった件",
+      "sentiment": "good",
+      "label": "リーチ演出EF・疑似図柄を原作スキル獲得シーン風デザインにし版権らしさを演出",
+      "url": "https://youtu.be/C3hVro7GdCw?t=54",
+      "keywords": [
+        "版権演出",
+        "リーチ演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P転生したらスライムだった件",
+      "sentiment": "good",
+      "label": "リーチ演出EF・疑似図柄を原作スキル獲得シーン風デザインにし版権らしさを演出（別カット）",
+      "url": "https://youtu.be/C3hVro7GdCw?t=109",
+      "keywords": [
+        "版権演出",
+        "リーチ演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P転生したらスライムだった件",
+      "sentiment": "good",
+      "label": "SPリーチ：時間差で回る筒状デザイン、テロップアニメで長尺をカバー、当りオチ映像が3Rでキリよく終わる工夫",
+      "url": "https://youtu.be/C3hVro7GdCw?t=365",
+      "keywords": [
+        "SPリーチ",
+        "演出構成"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P転生したらスライムだった件",
+      "sentiment": "good",
+      "label": "ハーベストフェスティバル背景：襖にキャラ立ち絵を配置し無機質感を回避",
+      "url": "https://youtu.be/C3hVro7GdCw?t=697",
+      "keywords": [
+        "背景演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P転生したらスライムだった件",
+      "sentiment": "good",
+      "label": "テンパイ煽り→SP本編の流れ：黒ベタ白文字タイトル＋シーン説明を挟む構成",
+      "url": "https://youtu.be/C3hVro7GdCw?t=1031",
+      "keywords": [
+        "テンパイ煽り",
+        "構成"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P転生したらスライムだった件",
+      "sentiment": "good",
+      "label": "UIのスライムリムルと図柄を絡めたキャッチ演出。全画面一枚絵での見せ方が上手い",
+      "url": "https://youtu.be/C3hVro7GdCw?t=1206",
+      "keywords": [
+        "UI演出",
+        "キャッチ演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "スロット Re:ゼロから始める異世界生活 season2",
+      "sentiment": "good",
+      "label": "成功時の画面切替・成功文字アニメーション・missionタイトル演出など細部の作り込み",
+      "url": "https://youtu.be/gjKuMDwC1iU?t=52",
+      "keywords": [
+        "演出クオリティ"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スロット Re:ゼロから始める異世界生活 season2",
+      "sentiment": "good",
+      "label": "天空ボタン演出（エキドナの指パッチン契機）。壮大さ・リッチ感・PUSH表示の勢い",
+      "url": "https://youtu.be/gjKuMDwC1iU?t=1315",
+      "keywords": [
+        "ボタン演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スロット Re:ゼロから始める異世界生活 season2",
+      "sentiment": "good",
+      "label": "RUSH名ファンファーレ演出。逆光・黒金を活かしたお洒落な絵作り",
+      "url": "https://youtu.be/gjKuMDwC1iU?t=909",
+      "keywords": [
+        "ファンファーレ",
+        "絵作り"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スマスロ頭文字D 2nd",
+      "sentiment": "good",
+      "label": "モーショングラフィック系のボタン出現EF。白飛びEFより作り込みが高い",
+      "url": "https://youtu.be/n1-bZ-ilisY?t=557",
+      "keywords": [
+        "ボタン演出",
+        "モーショングラフィック"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スマスロ頭文字D 2nd",
+      "sentiment": "good",
+      "label": "版権らしさ全押しのBONUS表示（フォント変化の演出）",
+      "url": "https://youtu.be/n1-bZ-ilisY?t=1031",
+      "keywords": [
+        "版権演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スマスロ頭文字D 2nd",
+      "sentiment": "good",
+      "label": "漫画素材を活かした奥行きのあるカットイン",
+      "url": "https://youtu.be/n1-bZ-ilisY?t=489",
+      "keywords": [
+        "カットイン演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スマスロ頭文字D 2nd",
+      "sentiment": "good",
+      "label": "漫画素材を活かした奥行きのあるリザルト画面",
+      "url": "https://youtu.be/n1-bZ-ilisY?t=1038",
+      "keywords": [
+        "リザルト演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "L ToLOVEるダークネス",
+      "sentiment": "good",
+      "label": "当落煽りの「溜め」をじわっと見せる好例",
+      "url": "https://youtu.be/ypoShlzHmYM?t=167",
+      "keywords": [
+        "溜め演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スマスロ ゴッドイーター リザレクション",
+      "sentiment": "good",
+      "label": "当落煽りの「溜め」をじわっと見せる好例",
+      "url": "https://youtu.be/msvYxpaBmE4?t=951",
+      "keywords": [
+        "溜め演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "eフィーバー機動戦士ガンダムユニコーン 再来-白き一角獣と黒き獅子-",
+      "sentiment": "good",
+      "label": "当落煽りの「溜め」をじわっと見せる好例",
+      "url": "https://youtu.be/74ZjcNRYtgo?t=306",
+      "keywords": [
+        "溜め演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "パチスロ からくりサーカス",
+      "sentiment": "good",
+      "label": "当落煽りの「溜め」をじわっと見せる好例",
+      "url": "https://youtu.be/y0Ul5iwyfaM?t=1054",
+      "keywords": [
+        "溜め演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "Pフィーバー三国戦騎7500",
+      "sentiment": "good",
+      "label": "当落煽りの「溜め」をじわっと見せる好例",
+      "url": "https://youtu.be/wbv3PeGLJgw?t=367",
+      "keywords": [
+        "溜め演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "L にゃんこ大戦争 超神速",
+      "sentiment": "good",
+      "label": "当落煽りの「溜め」をじわっと見せる好例",
+      "url": "https://youtu.be/VOprblKBzBE?t=891",
+      "keywords": [
+        "溜め演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "e仮面ライダー電王",
+      "sentiment": "good",
+      "label": "激熱演出前の「溜め」がじわぁぁぁと良い（画面が割れてライダー登場後はやや微妙という声も）",
+      "url": "https://youtu.be/cRR9r2AMXy0?t=830",
+      "keywords": [
+        "溜め演出",
+        "緩急"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e北斗の拳10",
+      "sentiment": "good",
+      "label": "ストーリー擬似連からの直SP。2Dから3Dへの切り替えが自然で気持ちが落ちない",
+      "url": "https://youtu.be/KIFgaPwqX8g?t=899",
+      "keywords": [
+        "擬似連演出",
+        "SPリーチ"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e北斗の拳10",
+      "sentiment": "good",
+      "label": "楽曲イントロを使ったボタン形成煽り。様々な場面から展開され期待感を持たせる",
+      "url": "https://youtu.be/KIFgaPwqX8g?t=9344",
+      "keywords": [
+        "ボタン演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e北斗の拳10",
+      "sentiment": "good",
+      "label": "3D構成×奥行きの見せ方が熱い最強リーチタイトル",
+      "url": "https://youtu.be/RkFfNBa1ai8?t=958",
+      "keywords": [
+        "リーチタイトル",
+        "3D演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e北斗の拳10",
+      "sentiment": "good",
+      "label": "最強リーチ当落煽り。映像→ボタン演出への自然な繋ぎと北斗七星の版権要素",
+      "url": "https://youtu.be/WKK2HSjkSZk?t=968",
+      "keywords": [
+        "当落煽り",
+        "版権演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e北斗の拳10",
+      "sentiment": "good",
+      "label": "ガラスの破片に敵キャラが映る「誰が出るか」演出のおしゃれさ",
+      "url": "https://youtu.be/WKK2HSjkSZk?t=1494",
+      "keywords": [
+        "敵キャラ煽り"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e北斗の拳10",
+      "sentiment": "good",
+      "label": "ケンシロウ登場煽り。暗転→白黒演出で分かりやすく煽れる構成",
+      "url": "https://youtu.be/WKK2HSjkSZk?t=532",
+      "keywords": [
+        "登場煽り"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e北斗の拳10",
+      "sentiment": "good",
+      "label": "フラットデザインが北斗だと逆に新鮮に見える",
+      "url": "https://youtu.be/RkFfNBa1ai8?t=574",
+      "keywords": [
+        "フラットデザイン"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ToLOVEるダークネス",
+      "sentiment": "good",
+      "label": "キャラの部位を見せつつボタンを押させる演出。キャラ画像に演出を組み込む工夫",
+      "url": "https://youtu.be/e2Ks6cxBBZI?t=176",
+      "keywords": [
+        "ボタン演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ToLOVEるダークネス",
+      "sentiment": "good",
+      "label": "画面が増殖するような見た目のカットイン。奥行きの使い方が上手い",
+      "url": "https://youtu.be/9yRQkqtDrh0?t=134",
+      "keywords": [
+        "カットイン演出",
+        "奥行き表現"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ToLOVEるダークネス",
+      "sentiment": "good",
+      "label": "闇落ち→覚醒の流れが分かりやすい。髪色変化・フォント変化の作り込み",
+      "url": "https://youtu.be/e2Ks6cxBBZI?t=196",
+      "keywords": [
+        "覚醒演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ToLOVEるダークネス",
+      "sentiment": "good",
+      "label": "リーチ中図柄ランクアップで版権を活かしたH図柄変化演出",
+      "url": "https://youtu.be/e2Ks6cxBBZI?t=286",
+      "keywords": [
+        "図柄演出",
+        "版権演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ToLOVEるダークネス",
+      "sentiment": "good",
+      "label": "ボタンが跳ねる演出をリーチ当落に採用した大胆さと細部の作り込み",
+      "url": "https://youtu.be/9yRQkqtDrh0?t=590",
+      "keywords": [
+        "ボタン演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P ToLOVEるダークネス",
+      "sentiment": "good",
+      "label": "右打ち中の一発告知モード切替演出。背景キャラの髪型で切り替え表現",
+      "url": "https://youtu.be/e2Ks6cxBBZI?t=1163",
+      "keywords": [
+        "右打ち中演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "押忍！番長4",
+      "sentiment": "good",
+      "label": "エンブレムモード背景の金・白黒・和風処理のカッコよさ",
+      "url": "https://youtu.be/6ZrZ_E16O1E?t=97",
+      "keywords": [
+        "背景演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "押忍！番長4",
+      "sentiment": "good",
+      "label": "他社ネタを仕込んだプレミア・復活演出（遊戯王ネタなど）",
+      "url": "https://www.youtube.com/shorts/FIj2ciGHJQw",
+      "keywords": [
+        "プレミア演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "押忍！番長4",
+      "sentiment": "good",
+      "label": "他社ネタを仕込んだプレミア・復活演出（熱血くにお君ネタなど）",
+      "url": "https://youtu.be/yB1Z-jBmojo?t=1187",
+      "keywords": [
+        "プレミア演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スロット ゾンビランドサガ",
+      "sentiment": "good",
+      "label": "徒花ボーナスロゴの厚み部分に「ADABANA」文字を仕込む細部デザイン",
+      "url": "https://youtu.be/ZICAe74EAV4?t=685",
+      "keywords": [
+        "ロゴデザイン"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スロット ゾンビランドサガ",
+      "sentiment": "good",
+      "label": "上位ST突入演出：色を抑えた導入→キャラ個別登場→虹タイトルの流れ",
+      "url": "https://youtu.be/ZICAe74EAV4?t=1496",
+      "keywords": [
+        "ST突入演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スロット ゾンビランドサガ",
+      "sentiment": "good",
+      "label": "プレミアAT突入演出：白背景＋キービジュ＋金テロップの特別感",
+      "url": "https://youtu.be/ZICAe74EAV4?t=2070",
+      "keywords": [
+        "AT突入演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スロット ゾンビランドサガ",
+      "sentiment": "good",
+      "label": "上乗せ特化モード背景：奥行きあるエフェクト背景でキャラの寂しさを軽減",
+      "url": "https://youtu.be/ZICAe74EAV4?t=371",
+      "keywords": [
+        "背景演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "Pバンドリ！",
+      "sentiment": "good",
+      "label": "疑似連からの楽曲SPリーチ直行予告。live開演演出の版権活用",
+      "url": "https://youtu.be/ZEoepO3ytfI?t=1297",
+      "keywords": [
+        "予告演出",
+        "版権演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "Pバンドリ！",
+      "sentiment": "good",
+      "label": "リーチ〜当り〜右打ち〜出玉アピールまで楽曲を切らない演出方針",
+      "url": "https://youtu.be/ZEoepO3ytfI?t=738",
+      "keywords": [
+        "演出方針"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "Pバンドリ！",
+      "sentiment": "good",
+      "label": "シェイプを組み合わせた予告。立体的なIN動作とレイヤー構造",
+      "url": "https://youtu.be/ZEoepO3ytfI?t=123",
+      "keywords": [
+        "予告演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "Pバンドリ！",
+      "sentiment": "good",
+      "label": "ペラペラな見た目で表現する斬新なボタン煽り演出",
+      "url": "https://youtu.be/ZEoepO3ytfI?t=552",
+      "keywords": [
+        "ボタン演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "Pバンドリ！",
+      "sentiment": "good",
+      "label": "ラウンド楽曲中の虹表現の綺麗さ",
+      "url": "https://youtu.be/ZEoepO3ytfI?t=591",
+      "keywords": [
+        "虹エフェクト"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "e新・必殺仕置人 超斬撃199",
+      "sentiment": "good",
+      "label": "転落ジャッジ演出。文字主体でもドキドキを煽れる構成",
+      "url": "https://youtu.be/tq5wozkqJ_4?t=1074",
+      "keywords": [
+        "ジャッジ演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "ぱちんこ シン・エヴァンゲリオン Type レイ（エヴァ16）",
+      "sentiment": "good",
+      "label": "70%激熱予告。希望と絶望のワード対比と初号機の槍カットで盛り上げる構成",
+      "url": "https://youtu.be/eUq3LLfRoAU?t=755",
+      "keywords": [
+        "激熱予告"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "P頭文字D 2nd",
+      "sentiment": "good",
+      "label": "上位モード突入演出にエンジン載せ替えシーンを再現した版権ファン向けの発想",
+      "url": "https://youtu.be/mGPKV6sWhO0?t=763",
+      "keywords": [
+        "版権演出",
+        "モード突入演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーマクロスフロンティア5",
+      "sentiment": "good",
+      "label": "背景の作り込みと発色の良さ。通常時に眺めても飽きない情報量",
+      "url": "https://youtu.be/1I1uMhLiOvc?t=6",
+      "keywords": [
+        "背景演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーマクロスフロンティア5",
+      "sentiment": "good",
+      "label": "縮小画面の色味を落とし数字だけ色付けするルール表現の分かりやすさ",
+      "url": "https://youtu.be/1I1uMhLiOvc?t=136",
+      "keywords": [
+        "UI演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーマクロスフロンティア5",
+      "sentiment": "good",
+      "label": "別カットを構築してから切り替わるダイナミックな予告の入り方",
+      "url": "https://youtu.be/1I1uMhLiOvc?t=140",
+      "keywords": [
+        "予告演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーマクロスフロンティア5",
+      "sentiment": "good",
+      "label": "全画面演出が引くとそのままボタンになる意外性",
+      "url": "https://youtu.be/1I1uMhLiOvc?t=460",
+      "keywords": [
+        "ボタン演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバーマクロスフロンティア5",
+      "sentiment": "good",
+      "label": "ファンファーレの作り込み（ギミック連動＋アングル変化でLive会場に）",
+      "url": "https://youtu.be/1I1uMhLiOvc?t=503",
+      "keywords": [
+        "ファンファーレ"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "PLT OVERLORD",
+      "sentiment": "good",
+      "label": "こだわりのボタン演出（スペックの派手さも話題）",
+      "url": "https://youtu.be/3yE3-jUBpkA?t=57",
+      "keywords": [
+        "ボタン演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "Pヴァルブレイヴ",
+      "sentiment": "good",
+      "label": "中二セリフと図柄変化を絡めた演出、ひび割れの色使い",
+      "url": "https://youtu.be/_ZBbfzVKWg4?t=775",
+      "keywords": [
+        "リーチ演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "Pヴァルブレイヴ",
+      "sentiment": "good",
+      "label": "斬撃の断面を立体的に見せる斬新な表現",
+      "url": "https://youtu.be/_ZBbfzVKWg4?t=856",
+      "keywords": [
+        "エフェクト演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "Pヴァルブレイヴ",
+      "sentiment": "good",
+      "label": "ロゴの一部可動によるトランジション演出の凝り方",
+      "url": "https://youtu.be/_ZBbfzVKWg4?t=1124",
+      "keywords": [
+        "トランジション"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "Pヴァルブレイヴ",
+      "sentiment": "good",
+      "label": "楽曲をCDとしてUIに組み込むデザイン",
+      "url": "https://youtu.be/_ZBbfzVKWg4?t=1229",
+      "keywords": [
+        "UI演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "Pヴァルブレイヴ",
+      "sentiment": "good",
+      "label": "キャラを煽りの一部として使う発想",
+      "url": "https://youtu.be/_ZBbfzVKWg4?t=1258",
+      "keywords": [
+        "煽り演出"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "スマスロモンキーターンV",
+      "sentiment": "good",
+      "label": "カメラの寄り引き＋モノクロ演出＋文字/イルミの絡み合いによる爽快感",
+      "url": "https://youtu.be/66R5_SniJv0?t=1013",
+      "keywords": [
+        "演出構成"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "スマスロモンキーターンV",
+      "sentiment": "good",
+      "label": "ドット調表現の一手間感",
+      "url": "https://youtu.be/66R5_SniJv0?t=1320",
+      "keywords": [
+        "エフェクト演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "パチスロ からくりサーカス",
+      "sentiment": "good",
+      "label": "デカボタンが画面を突き破る迫力ある表現",
+      "url": "https://youtu.be/RpPOe-oTjbU?t=227",
+      "keywords": [
+        "ボタン演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "パチスロ からくりサーカス",
+      "sentiment": "good",
+      "label": "失敗時の画面割れ演出。じわっとヒビに切り替える見せ方",
+      "url": "https://youtu.be/RpPOe-oTjbU?t=358",
+      "keywords": [
+        "失敗演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "パチスロ からくりサーカス",
+      "sentiment": "good",
+      "label": "金の発色の綺麗さ",
+      "url": "https://youtu.be/RpPOe-oTjbU?t=586",
+      "keywords": [
+        "エフェクト演出"
+      ],
+      "type": "スロット"
+    },
+    {
+      "machine": "eフィーバー妖怪ウォッチ",
+      "sentiment": "good",
+      "label": "ジバニャン役物の「ちょっと腹立つ感じ」が魅力的という最新情報",
+      "url": "http://pachinkopachisro.com/archives/59921396.html",
+      "keywords": [
+        "役物"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー妖怪ウォッチ",
+      "sentiment": "good",
+      "label": "試打動画。役物が一見の価値ありとの評判",
+      "url": "https://youtu.be/8fO9QXyVOIM",
+      "keywords": [
+        "役物",
+        "試打動画"
+      ],
+      "type": "パチンコ"
+    },
+    {
+      "machine": "eフィーバー妖怪ウォッチ",
+      "sentiment": "good",
+      "label": "試打動画（別カット）。役物が一見の価値ありとの評判",
+      "url": "https://youtu.be/f6zpNt6R9Xg",
+      "keywords": [
+        "役物",
+        "試打動画"
+      ],
+      "type": "パチンコ"
+    }
+  ],
+  "genre": [
+    {
+      "machine": "上伊那ぼたん、酔へる姿は百合の花",
+      "sentiment": "good",
+      "label": "ノスタルジーを感じる良いOP映像",
+      "url": "https://youtu.be/fUU_VKLXzRQ",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "初星学園「Wildest Flower」MV",
+      "sentiment": "good",
+      "label": "質感・温度感は今どき、動きや時間経過の表現が新しいMV",
+      "url": "https://www.youtube.com/watch?v=iiiLtE4w2pE",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "東京真中 - ブレインロット feat. 重音テト",
+      "sentiment": "good",
+      "label": "AI生成背景×2Dアニメキャラが切り替わるMV",
+      "url": "https://www.youtube.com/watch?v=UsjsYMo3O1Q",
+      "keywords": [
+        "MV",
+        "AI技術トレンド"
+      ],
+      "genreChip": "AIアニメ・生成AI技術"
+    },
+    {
+      "machine": "花緑青が明ける日に",
+      "sentiment": "good",
+      "label": "映像表現が美しい作品",
+      "url": "https://www.youtube.com/watch?v=_Cq94amw8E8",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "Seedance（AI動画修正）",
+      "sentiment": "good",
+      "label": "作画崩壊カットをAIで修正した投稿が面白い",
+      "url": "https://x.com/i/status/2026817766657863838",
+      "keywords": [
+        "AI技術トレンド"
+      ],
+      "genreChip": "AIアニメ・生成AI技術"
+    },
+    {
+      "machine": "AIリメイク関連ニュース",
+      "sentiment": "good",
+      "label": "AIリメイクに関する話題共有",
+      "url": "http://yaraon-blog.com/archives/294966",
+      "keywords": [
+        "AI技術トレンド"
+      ],
+      "genreChip": "AIアニメ・生成AI技術"
+    },
+    {
+      "machine": "AIリメイク関連ニュース",
+      "sentiment": "good",
+      "label": "AIリメイクに関する話題共有（別ポスト）",
+      "url": "https://x.com/mikune777/status/1100377259557318656",
+      "keywords": [
+        "AI技術トレンド"
+      ],
+      "genreChip": "AIアニメ・生成AI技術"
+    },
+    {
+      "machine": "動画生成AI Seedance2",
+      "sentiment": "good",
+      "label": "動画生成AIの最新事例共有",
+      "url": "https://x.com/YaseenK7212/status/2022287394192437401",
+      "keywords": [
+        "AI技術トレンド"
+      ],
+      "genreChip": "AIアニメ・生成AI技術"
+    },
+    {
+      "machine": "ドラゴンボール40th記念スペシャル映像",
+      "sentiment": "good",
+      "label": "鳥山明の作画のままアニメーション化され感動",
+      "url": "https://www.youtube.com/watch?v=zRJS0P1GwC4",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "炎炎ノ消防隊 参ノ章",
+      "sentiment": "good",
+      "label": "第2クールEDのエンディング映像（Survive Said The Prophet）",
+      "url": "https://youtu.be/4NHzOOWEaY0",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "炎炎ノ消防隊 参ノ章",
+      "sentiment": "good",
+      "label": "壱話EDのエンディング映像（梅田サイファー）",
+      "url": "https://youtu.be/xjjpvrY_tGM",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "水墨画アニメーション（作家紹介）",
+      "sentiment": "good",
+      "label": "水墨画でアニメーションをやられている作家さんの投稿",
+      "url": "https://x.com/zinkai/status/1923428733295477077",
+      "keywords": [
+        "映像作家"
+      ],
+      "genreChip": "モーショングラフィック・エフェクト表現"
+    },
+    {
+      "machine": "ジャンプ×梅田サイファー スペシャルMV",
+      "sentiment": "good",
+      "label": "とても良かったコラボMV",
+      "url": "https://youtu.be/k9IOvReNOyA",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "超かぐや姫！",
+      "sentiment": "good",
+      "label": "予告の作画・キャラクターが気になる",
+      "url": "https://x.com/Cho_KaguyaHime/status/1986040817639973345",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+      "sentiment": "good",
+      "label": "京都アニメーションによる和風パンク調PV第1弾",
+      "url": "https://youtu.be/_O5ZVkdhQhc",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "僕のヒーローアカデミア 8期",
+      "sentiment": "good",
+      "label": "オールマイトのブロマイドから1〜7期をダイジェストで見せるED",
+      "url": "https://www.youtube.com/watch?v=K0v0lTbZnvM",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "CAT'S EYE",
+      "sentiment": "good",
+      "label": "「手の動き」にフォーカスした葛藤・色気表現のED映像",
+      "url": "https://www.youtube.com/watch?v=zRXYrg6zvCc",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "トワイライト・ウォリアーズ 決戦！九龍城砦",
+      "sentiment": "good",
+      "label": "香港アクション映画のPV",
+      "url": "https://youtu.be/b6UaMD5P77s",
+      "keywords": [
+        "映画・実写"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "無限大ANANTA",
+      "sentiment": "good",
+      "label": "一線を越えている高クオリティなゲームプレイトレーラー",
+      "url": "https://www.youtube.com/watch?v=BCLKQCylA30",
+      "keywords": [
+        "ゲームPV"
+      ],
+      "genreChip": "ゲームPV・トレーラー"
+    },
+    {
+      "machine": "マクドナルド 月見食べ美MV",
+      "sentiment": "good",
+      "label": "撮影処理を担当した方のポストで裏側を共有",
+      "url": "https://twitter.com/yasucra/status/1967957283608142222",
+      "keywords": [
+        "CM映像"
+      ],
+      "genreChip": "CM・広告映像"
+    },
+    {
+      "machine": "全編生成AI制作ドラマ",
+      "sentiment": "good",
+      "label": "フルAIで作成されたドラマの公式PV",
+      "url": "https://youtu.be/56R3s0NNnIw",
+      "keywords": [
+        "AI技術トレンド"
+      ],
+      "genreChip": "AIアニメ・生成AI技術"
+    },
+    {
+      "machine": "映画「8番出口」",
+      "sentiment": "good",
+      "label": "メディアミックスがよかった映画",
+      "url": "https://exit8-movie.toho.co.jp/",
+      "keywords": [
+        "映画・実写"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "デス・ストランディング2",
+      "sentiment": "good",
+      "label": "三浦大知のダンスで服の揺れが自然な映像",
+      "url": "https://youtu.be/DJq0jJhPSjg",
+      "keywords": [
+        "ゲームPV"
+      ],
+      "genreChip": "ゲームPV・トレーラー"
+    },
+    {
+      "machine": "シュガシュガルーン",
+      "sentiment": "good",
+      "label": "とても素敵な映像作品",
+      "url": "https://youtu.be/qidzapjAMVc",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "Lazy talk（AI生成MV）",
+      "sentiment": "good",
+      "label": "AIで作られた興味深いMV",
+      "url": "https://www.youtube.com/watch?v=WM6bkOGQL7E",
+      "keywords": [
+        "AI技術トレンド",
+        "MV"
+      ],
+      "genreChip": "AIアニメ・生成AI技術"
+    },
+    {
+      "machine": "Lazy talk（AI生成MV）",
+      "sentiment": "good",
+      "label": "制作メイキング映像",
+      "url": "https://youtu.be/xEmsg7HIEtY",
+      "keywords": [
+        "AI技術トレンド",
+        "MV"
+      ],
+      "genreChip": "AIアニメ・生成AI技術"
+    },
+    {
+      "machine": "マクドナルド LUNA CHEE「チーチーROSIER」",
+      "sentiment": "good",
+      "label": "公式コラボMVの告知ポスト",
+      "url": "https://x.com/McDonaldsJapan/status/1957570705710608494",
+      "keywords": [
+        "CM映像"
+      ],
+      "genreChip": "CM・広告映像"
+    },
+    {
+      "machine": "海外マクドナルドCM",
+      "sentiment": "good",
+      "label": "クオリティの高い海外CM。リプ欄にメイキングあり",
+      "url": "https://x.com/HuinGuillaume/status/1955301767740096659",
+      "keywords": [
+        "CM映像"
+      ],
+      "genreChip": "CM・広告映像"
+    },
+    {
+      "machine": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
+      "sentiment": "good",
+      "label": "1話冒頭の川の描写が細かく美しい",
+      "url": "https://youtu.be/16ed47lIdP4",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
+      "sentiment": "good",
+      "label": "OPが専用の色調になっており、エフェクトもきれい",
+      "url": "https://youtu.be/8dky0A7Gx1c",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "瑠璃の宝石",
+      "sentiment": "good",
+      "label": "今期のアニメで特に良かった作品",
+      "url": "https://youtu.be/ksfH7W7N9w4",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "瑠璃の宝石",
+      "sentiment": "good",
+      "label": "今期のアニメで特に良かった作品（別カット）",
+      "url": "https://youtu.be/kdh0ucpJEH8",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "しぐれういの新しいMV",
+      "sentiment": "good",
+      "label": "面白いMV",
+      "url": "https://www.youtube.com/watch?v=VXUbEH0DvSM",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "しぐれういの新しいMV",
+      "sentiment": "good",
+      "label": "魚眼演出についての解説ポスト",
+      "url": "https://x.com/POPREQ/status/1944350444228391120",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "Flow",
+      "sentiment": "good",
+      "label": "猫のリアルな所作、水の澄んだ表現が素晴らしい映画",
+      "url": "https://flow-movie.com/",
+      "keywords": [
+        "映画・実写"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "Flow",
+      "sentiment": "good",
+      "label": "猫のリアルな所作、水の澄んだ表現が素晴らしい映画（予告編）",
+      "url": "https://www.youtube.com/watch?v=0-MHLcJtRxo",
+      "keywords": [
+        "映画・実写"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "ガチアクタ",
+      "sentiment": "good",
+      "label": "色収差・ノイズ表現多め、背景3Dも良いティザーPV",
+      "url": "https://www.youtube.com/watch?v=fcGBcw6qV4w",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "MARVEL Tōkon: Fighting Souls",
+      "sentiment": "good",
+      "label": "3Dで2D風の表現が増えている好例",
+      "url": "https://www.youtube.com/watch?v=nZxxPHqFFnY",
+      "keywords": [
+        "ゲームPV"
+      ],
+      "genreChip": "ゲームPV・トレーラー"
+    },
+    {
+      "machine": "ういこうせん（しぐれうい）",
+      "sentiment": "good",
+      "label": "3D空間の中で2Dイラストをそれっぽく見せる表現が凄い",
+      "url": "https://www.youtube.com/watch?v=gq0C6-Qu1eQ",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "七次元生徒会！「即物的アンサンブル」MV",
+      "sentiment": "good",
+      "label": "アニメーション+3DCG+ミニチュア背景を組み合わせた演出",
+      "url": "https://youtu.be/dHywSNVzdfQ",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "すいちゃんの新曲アニメMV",
+      "sentiment": "good",
+      "label": "カメラワークやカット切り替えがおしゃれで新鮮",
+      "url": "https://youtu.be/VPhLXeU25KA",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "映像作家100人（2025年度）",
+      "sentiment": "good",
+      "label": "毎年参考になる映像作家リスト",
+      "url": "https://eizo100.jp/archives/category/2025",
+      "keywords": [
+        "映像作家"
+      ],
+      "genreChip": "モーショングラフィック・エフェクト表現"
+    },
+    {
+      "machine": "ラザロ",
+      "sentiment": "good",
+      "label": "ワンカット原画についての制作者ポスト",
+      "url": "https://x.com/yoneyamai/status/1913223733638316114",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "不破湊「ディストーションと抱擁」MV",
+      "sentiment": "good",
+      "label": "実写背景+キャラアニメのコンポジットが上手いMV",
+      "url": "https://www.youtube.com/watch?v=s40wweiFOXw",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "不破湊「ディストーションと抱擁」MV",
+      "sentiment": "good",
+      "label": "MVを手がけた作家さんのポートフォリオサイト",
+      "url": "https://www.foriio.com/riri101416",
+      "keywords": [
+        "MV",
+        "映像作家"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "ジブリ風画像生成関連ニュース",
+      "sentiment": "good",
+      "label": "文部科学省の役人による国会答弁の話題共有",
+      "url": "https://news.yahoo.co.jp/articles/e650a464c93ab4f4d8f318c257768cbfccd2d78b",
+      "keywords": [
+        "AI技術トレンド"
+      ],
+      "genreChip": "AIアニメ・生成AI技術"
+    },
+    {
+      "machine": "YAIBA",
+      "sentiment": "good",
+      "label": "アクションが気持ちよく仕上がっている",
+      "url": "https://youtu.be/7noPMIddli4",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "ラザロ",
+      "sentiment": "good",
+      "label": "豪華スタッフ陣が集結したPV",
+      "url": "https://www.youtube.com/watch?v=Nk5n35aeYdA",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "黒執事 -緑の魔女編-",
+      "sentiment": "good",
+      "label": "OPのテイスト切り替えが自然で3Dがきれい。EDはイラストが美麗",
+      "url": "https://youtu.be/WmLqVVnLl80",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "WIND BREAKER Season 2",
+      "sentiment": "good",
+      "label": "さすがのCloverWorksクオリティのED",
+      "url": "https://youtu.be/ySD7YVvd6Xw",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "小市民シリーズ二期",
+      "sentiment": "good",
+      "label": "アニメOPとは思えない斬新なアートワーク",
+      "url": "https://youtu.be/Tvusi5PSzo0",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "小市民シリーズ二期",
+      "sentiment": "good",
+      "label": "光の反射が虹になる表現、溶けそうな作画が魅力のOP",
+      "url": "https://youtu.be/kk6meRqr-o4",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "おっさんのOP/ED",
+      "sentiment": "good",
+      "label": "EDのヒロインたちがかわいい",
+      "url": "https://youtu.be/X7CUKgkmjek",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "おっさんのOP/ED",
+      "sentiment": "good",
+      "label": "EDのヒロインたちがかわいい（別カット）",
+      "url": "https://youtu.be/0wiH32AE7Nw",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "ホロライブ3Dライブ",
+      "sentiment": "good",
+      "label": "3Dの質・背景・観客・演出のクオリティが総合的に向上（ライブ本配信）",
+      "url": "https://www.youtube.com/live/qc2owX4GFwA",
+      "keywords": [
+        "MV",
+        "AI技術トレンド"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "ホロライブ3Dライブ",
+      "sentiment": "good",
+      "label": "雨や濡れた地面の水しぶきなど新技術に関する切り抜き",
+      "url": "https://youtu.be/zcUk72yLCVs",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "ホロライブ3Dライブ",
+      "sentiment": "good",
+      "label": "従来の屋外3Dライブのクオリティ参考",
+      "url": "https://www.youtube.com/live/KJGX0gJhvrM",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "星街すいせいのMV",
+      "sentiment": "good",
+      "label": "パチンコにも取り入れたい表現のMV",
+      "url": "https://www.youtube.com/watch?v=UpEPkPg8YP4",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "星街すいせいのMV",
+      "sentiment": "good",
+      "label": "モーショングラフィック担当者によるデータ公開ポスト",
+      "url": "https://x.com/yasucra/status/1904126693218156920",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "MLB×鬼滅の刃コラボ映像",
+      "sentiment": "good",
+      "label": "2:05~の暗転から光が広がるエフェクトがかっこいい",
+      "url": "https://www.youtube.com/watch?v=V32CMrkEkcg",
+      "keywords": [
+        "CM映像"
+      ],
+      "genreChip": "CM・広告映像"
+    },
+    {
+      "machine": "AI×3Dルックデヴ記事（CGworld）",
+      "sentiment": "good",
+      "label": "3D制作でもAIを導入したルックデヴ事例の記事",
+      "url": "https://cgworld.jp/article/2502-sola-lovemachine.html",
+      "keywords": [
+        "AI技術トレンド"
+      ],
+      "genreChip": "AIアニメ・生成AI技術"
+    },
+    {
+      "machine": "ツインズひなひま",
+      "sentiment": "good",
+      "label": "全編AIの補助が入ったアニメPV（ノイズっぽさあり）",
+      "url": "https://www.youtube.com/watch?v=CjUa9RladYQ",
+      "keywords": [
+        "AI技術トレンド"
+      ],
+      "genreChip": "AIアニメ・生成AI技術"
+    },
+    {
+      "machine": "MILLENNIUM PARADE - KIZAO",
+      "sentiment": "good",
+      "label": "コマを抜いた動き。背景・エフェクトを別ソフトで制作し組み合わせる手法",
+      "url": "https://youtu.be/8BQSjP8DWfI",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "MILLENNIUM PARADE - KIZAO",
+      "sentiment": "good",
+      "label": "制作手法の解説記事（CGworld）",
+      "url": "https://cgworld.jp/regular/318-vfx-kizao.html",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "もめんたりー・リリィ",
+      "sentiment": "good",
+      "label": "インパクトのあるOP映像",
+      "url": "https://www.youtube.com/watch?v=aTdDYP7-KXA",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "TO BE HERO X",
+      "sentiment": "good",
+      "label": "2Dと3Dがパカパカ切り替わるノンクレジットOP",
+      "url": "https://youtu.be/8QJ8KNdhkiA",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "TO BE HERO X",
+      "sentiment": "good",
+      "label": "2Dと3Dがパカパカ切り替わるノンクレジットOP（別カット）",
+      "url": "https://youtu.be/08kp3Cs31Ow",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "悪役令嬢転生おじさん",
+      "sentiment": "good",
+      "label": "キラキラ衣装のおじさんと令嬢が出てくるカオスなED映像",
+      "url": "https://www.youtube.com/watch?v=L0I_HEqyqZM",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "機動戦士Gundam GQuuuuuuX（ジークアクス）",
+      "sentiment": "good",
+      "label": "ポップでスタイリッシュなキャラデザ。UIまわりも遊技機に使えそうなデザイン",
+      "url": "https://www.youtube.com/watch?v=Nrrp2vXddgk",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "想星のアクエリオン",
+      "sentiment": "good",
+      "label": "変形に合わせた背景エフェクト・ノイズ・ドット表現が参考になるOP",
+      "url": "https://www.youtube.com/watch?v=-xbPB-XtwGU",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "BanG Dream! Ave Mujica",
+      "sentiment": "good",
+      "label": "表情の作画が良いカット",
+      "url": "https://youtu.be/Souwq8yepWQ?t=32",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "BanG Dream! Ave Mujica",
+      "sentiment": "good",
+      "label": "指の作り込みが作画っぽく良いカット",
+      "url": "https://youtu.be/Souwq8yepWQ?t=8",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "BanG Dream! Ave Mujica",
+      "sentiment": "good",
+      "label": "引きの書き込みが作画的で圧巻なカット",
+      "url": "https://youtu.be/Souwq8yepWQ?t=26",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "BanG Dream! Ave Mujica",
+      "sentiment": "bad",
+      "label": "前頭部・側頭部の髪ボリューム不足で3Dっぽく見えてしまうカット",
+      "url": "https://youtu.be/Souwq8yepWQ?t=37",
+      "keywords": [
+        "アニメ映像",
+        "3D表現の課題"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "BanG Dream! Ave Mujica",
+      "sentiment": "bad",
+      "label": "止め絵で見ると3Dっぽさが出てしまうカット",
+      "url": "https://youtu.be/Souwq8yepWQ?t=19",
+      "keywords": [
+        "アニメ映像",
+        "3D表現の課題"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "Boom / Team ahamo",
+      "sentiment": "good",
+      "label": "40秒あたり、3Dがいい意味で3Dっぽくない表現",
+      "url": "https://youtu.be/YKEhO5jhP3g?t=42",
+      "keywords": [
+        "CM映像"
+      ],
+      "genreChip": "CM・広告映像"
+    },
+    {
+      "machine": "Boom / Team ahamo",
+      "sentiment": "good",
+      "label": "3Dがいい意味で3Dっぽくない表現（別カット）",
+      "url": "https://youtu.be/YKEhO5jhP3g?t=10",
+      "keywords": [
+        "CM映像"
+      ],
+      "genreChip": "CM・広告映像"
+    },
+    {
+      "machine": "こしさん（映像作家）",
+      "sentiment": "good",
+      "label": "主にMVを制作するフリーの映像作家さんのサイト",
+      "url": "https://www.koshi-kun.com/",
+      "keywords": [
+        "映像作家"
+      ],
+      "genreChip": "モーショングラフィック・エフェクト表現"
+    },
+    {
+      "machine": "こしさん（映像作家）",
+      "sentiment": "good",
+      "label": "代表作のMV",
+      "url": "https://www.youtube.com/watch?v=MmxfXbtWUrU",
+      "keywords": [
+        "映像作家",
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "BLEACH（対戦アクションゲーム）",
+      "sentiment": "good",
+      "label": "かっこいい映像に仕上がっているゲーム映像",
+      "url": "https://www.youtube.com/watch?v=d0VEZq9dMcY",
+      "keywords": [
+        "ゲームPV"
+      ],
+      "genreChip": "ゲームPV・トレーラー"
+    },
+    {
+      "machine": "BLEACH（対戦アクションゲーム）",
+      "sentiment": "good",
+      "label": "かっこいい映像に仕上がっているゲーム映像（別カット）",
+      "url": "https://www.youtube.com/watch?v=lBEE9Rs58K8",
+      "keywords": [
+        "ゲームPV"
+      ],
+      "genreChip": "ゲームPV・トレーラー"
+    },
+    {
+      "machine": "桜井政博のゲーム作るには",
+      "sentiment": "good",
+      "label": "エフェクトについての解説動画。ゲーム/アニメから表現を持ってくる参考に",
+      "url": "https://youtu.be/4D-Lw7lFuD0",
+      "keywords": [
+        "解説動画"
+      ],
+      "genreChip": "モーショングラフィック・エフェクト表現"
+    },
+    {
+      "machine": "ダンダダン",
+      "sentiment": "good",
+      "label": "Creepy Nuts「オトノケ」によるOP映像",
+      "url": "https://www.youtube.com/watch?v=Nw_XzGZ35As",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "ダンダダン",
+      "sentiment": "good",
+      "label": "龍幸伸先生インタビュー＆作画解説",
+      "url": "https://www.youtube.com/watch?v=VkozKZtKEuA",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "Metaphor: ReFantazio",
+      "sentiment": "good",
+      "label": "UIがおしゃれで見せ方全般が良いゲーム",
+      "url": "https://youtu.be/4c2czVFJ9JI",
+      "keywords": [
+        "ゲームPV"
+      ],
+      "genreChip": "ゲームPV・トレーラー"
+    },
+    {
+      "machine": "さくらみこ「SUNAO」MV",
+      "sentiment": "good",
+      "label": "かなりクオリティの高い3DMV",
+      "url": "https://youtu.be/4ZafIoQ_g7Y",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "YOASOBI「UNDEAD」MV",
+      "sentiment": "good",
+      "label": "画面構成の引き出しの多さが凄いMV",
+      "url": "https://www.youtube.com/watch?v=Jj1_mfUzjOs",
+      "keywords": [
+        "MV"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "時々ボソッとロシア語でデレる隣のアーリャさん",
+      "sentiment": "good",
+      "label": "今期の作画が良い女の子アニメ",
+      "url": "https://youtu.be/wiciFs4eZg0",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "時々ボソッとロシア語でデレる隣のアーリャさん",
+      "sentiment": "good",
+      "label": "今期の作画が良い女の子アニメ（別カット）",
+      "url": "https://youtu.be/WMdXTiLrT2g",
+      "keywords": [
+        "アニメ映像"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "推しの子",
+      "sentiment": "good",
+      "label": "サビにかけての映像の盛り上がりが最高な2期OP",
+      "url": "https://youtu.be/lUDPjyfmJrs",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    },
+    {
+      "machine": "推しの子",
+      "sentiment": "good",
+      "label": "ビルから落ちるシーンなど構成に見応えのあるOPカット",
+      "url": "https://youtu.be/PAcf55v6zqQ",
+      "keywords": [
+        "アニメOP/ED"
+      ],
+      "genreChip": "映像参考"
+    }
+  ]
+}
