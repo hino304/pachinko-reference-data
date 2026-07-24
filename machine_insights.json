@@ -2324,16 +2324,6 @@
       "genreChip": "AIアニメ・生成AI技術"
     },
     {
-      "machine": "マクドナルド LUNA CHEE「チーチーROSIER」",
-      "sentiment": "good",
-      "label": "公式コラボMVの告知ポスト",
-      "url": "https://x.com/McDonaldsJapan/status/1957570705710608494",
-      "keywords": [
-        "CM映像"
-      ],
-      "genreChip": "CM・広告映像"
-    },
-    {
       "machine": "海外マクドナルドCM",
       "sentiment": "good",
       "label": "クオリティの高い海外CM。リプ欄にメイキングあり",
