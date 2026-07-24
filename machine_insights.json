@@ -2515,16 +2515,6 @@
       "genreChip": "映像参考"
     },
     {
-      "machine": "ジブリ風画像生成関連ニュース",
-      "sentiment": "good",
-      "label": "文部科学省の役人による国会答弁の話題共有",
-      "url": "https://news.yahoo.co.jp/articles/e650a464c93ab4f4d8f318c257768cbfccd2d78b",
-      "keywords": [
-        "AI技術トレンド"
-      ],
-      "genreChip": "AIアニメ・生成AI技術"
-    },
-    {
       "machine": "YAIBA",
       "sentiment": "good",
       "label": "アクションが気持ちよく仕上がっている",
